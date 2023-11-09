@@ -7,15 +7,15 @@ CrossFit workout performance; which can be measured in terms of various variable
 ## Variables
 
 - Time taken to complete workout (continuous variable)
-- Number of repetitions
-- Heart rate
+- Number of repetitions (discrete variable)
+- Heart rate (continuous variable)
 - Subjective difficulty level (ordinal variable)
 
 ## Likely Distributions
 
 - Time taken to complete workout might follow a normal distribution
 - The number of repetitions..
-- Heart rate..
+- Heart rate.. normal distribution
 - Difficulty level should be represented as categorical data
 
 ## Relationships
@@ -27,5 +27,8 @@ CrossFit workout performance; which can be measured in terms of various variable
 ## Simulation Steps
 
 1. Generate synthetic data for each variable using the appropriate numpy.random distributions
+2. Ensure that relationships between variables are reflected in the simulated data.
+3. Detail these in the project.ipynb Jupyter Notebook
+4. Visualise the synthetic data and the realtionshops using appropriate charts and plots
 
 ## Results
