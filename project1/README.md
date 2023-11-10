@@ -1,8 +1,8 @@
-# Project Idea: Simulating CrossFit workout performance
+# Project Idea: Simulating high intensity fitness programme workout performance
 
 ## Phenomenon
 
-CrossFit workout performance; which can be measured in terms of various variables like time taken to complete a workout, number of repetitions completed in a given exercise, heart rate, and perceived workout difficulty.
+High intensity fitness programme  workout performance; which can be measured in terms of various variables like time taken to complete a workout, number of repetitions completed in a given exercise, heart rate, and perceived workout difficulty.
 
 ## Variables
 
