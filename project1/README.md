@@ -14,7 +14,7 @@ High intensity fitness programme  workout performance; which can be measured in 
 ## Likely Distributions
 
 - Time taken to complete workout might follow a normal distribution
-- The number of repetitions..
+- The number of repetitions..poisson distribution?
 - Heart rate.. normal distribution
 - Difficulty level should be represented as categorical data
 
