@@ -3,8 +3,8 @@
 ## Project Outline
 
 - [Introduction](#introduction)
-- [Dataset overview](#dataset-overview)
-- [Research and Variable Investigation](#ravi)
+- [Dataset overview](#/project1/project.ipynb)
+- [Research and Variable Investigation](/project1/project.ipynb)
 - simulation design
 - implementation of simulation
 - analysis of dataset
