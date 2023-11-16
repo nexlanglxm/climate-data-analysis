@@ -1,5 +1,16 @@
 # Project Idea: Simulating high intensity fitness programme workout performance
 
+## Project Outline
+
+- [Introduction](#introduction)
+- [Dataset overview](#dataset-overview)
+- [Research and Variable Investigation](#ravi)
+- simulation design
+- implementation of simulation
+- analysis of dataset
+- interpretation of results
+- conclusion
+
 ## Phenomenon
 
 High intensity fitness programme  workout performance; which can be measured in terms of various variables like time taken to complete a workout, number of repetitions completed in a given exercise, heart rate, and perceived workout difficulty.
