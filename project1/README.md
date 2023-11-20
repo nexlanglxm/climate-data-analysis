@@ -1,34 +1,68 @@
-# Project Idea: Simulating high intensity fitness programme workout performance
+# Functional Fitness Data Modeling using Python
 
-## Phenomenon
+This repository contains code and a Jupyter notebook focusing on modeling a synthetic dataset representing high-intensity fitness program performance using Python.
 
-High intensity fitness programme  workout performance; which can be measured in terms of various variables like time taken to complete a workout, number of repetitions completed in a given exercise, heart rate, and perceived workout difficulty.
+## Project Overview
 
-## Variables
+This project aims to simulate a dataset that mirrors real-world phenomena related to high-intensity workout programs. It explores four key variables:
 
-- Time taken to complete workout (continuous variable)
-- Number of repetitions (discrete variable)
-- Heart rate (continuous variable)
-- Subjective difficulty level (ordinal variable)
+1. Time taken to complete the workout
+2. Number of repetitions
+3. Heart rate during the workout
+4. Subjective difficulty level experienced during the workout
 
-## Likely Distributions
+The Jupyter notebook (`project.ipynb`) included in this repository details the process of researching, simulating, analyzing, and interpreting this synthetic dataset.
 
-- Time taken to complete workout might follow a normal distribution
-- The number of repetitions..poisson distribution?
-- Heart rate.. normal distribution
-- Difficulty level should be represented as categorical data
+## File Structure
 
-## Relationships
+- `project.ipynb`: Jupyter notebook containing the detailed process of dataset simulation, variable investigation, analysis, and interpretation.
+- `readme.md`: This file, providing an overview of the project, its objectives, and the tools used.
 
-- Time taken and the number of repetitions completed should be negatively correlated, as time decreases, repetitions should increase.
-- Heart rate might have a positive correlation with number of repetitions completed, high intensity workouts can lead to higher heart rates.
-- Difficulty level vs time taken & heart rate; harder workouts may lead to longer times and higher heart rates.
+## Project Structure
 
-## Simulation Steps
+The `project.ipynb` file within this repository is organized into the following sections:
 
-1. Generate synthetic data for each variable using the appropriate numpy.random distributions
-2. Ensure that relationships between variables are reflected in the simulated data.
-3. Detail these in the project.ipynb Jupyter Notebook
-4. Visualise the synthetic data and the realtionshops using appropriate charts and plots
+- Introduction
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
-## Results
+## Usage
+
+To replicate or understand the process:
+
+1. Clone this repository.
+2. Ensure you have Python and necessary libraries installed.
+3. Open `project.ipynb` using Jupyter Notebook or Jupyter Lab.
+4. Follow the step-by-step instructions and explanations provided within the notebook to understand the dataset simulation process.
+
+## Tools and Libraries
+
+This project was developed using:
+
+- Visual Studio Code
+- Jupyter Notebooks (via Anaconda)
+- Python 3.11.5
+- Libraries used:
+  - Pandas
+  - Matplotlib
+  - NumPy
+  - Other libraries (if applicable)
+
+## Examples
+
+## Running the Jupyter Notebook
+
+to be filled out
+
+## Data Generation Methodology
+
+The synthetic dataset was generated following specific distributions for each variable
+
+## Acknowledgments
+
+References and sources used in this project are listed within the `project.ipynb` file.
