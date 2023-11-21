@@ -23,13 +23,13 @@ The Jupyter notebook (`project.ipynb`) included in this repository details the p
 The `project.ipynb` file within this repository is organized into the following sections:
 
 - Introduction
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Dataset Overview
+- Research and Variable Investigation
+- Simulation Design
+- Implementation of Simulation
+- Analysis of Dataset
+- Interpretation of Results
+- Conclusion
 
 ## Usage
 
