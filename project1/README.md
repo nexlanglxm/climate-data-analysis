@@ -6,10 +6,9 @@ This repository contains code and a Jupyter notebook focusing on modeling a synt
 
 This project aims to simulate a dataset that mirrors real-world phenomena related to high-intensity workout programs. It explores four key variables:
 
-1. Time taken to complete the workout
-2. Number of repetitions
-3. Heart rate during the workout
-4. Subjective difficulty level experienced during the workout
+1. Blood lactic acid concentration
+2. Heart rate during the workout
+3. Subjective difficulty level experienced during the workout
 
 The Jupyter notebook (`project.ipynb`) included in this repository details the process of researching, simulating, analyzing, and interpreting this synthetic dataset.
 
