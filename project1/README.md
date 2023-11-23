@@ -9,6 +9,7 @@ This project aims to simulate a dataset that mirrors real-world phenomena relate
 1. Blood lactic acid concentration
 2. Heart rate during the workout
 3. Subjective difficulty level experienced during the workout
+4. Caloric expenditure
 
 The Jupyter notebook (`project.ipynb`) included in this repository details the process of researching, simulating, analyzing, and interpreting this synthetic dataset.
 
