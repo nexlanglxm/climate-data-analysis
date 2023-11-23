@@ -24,7 +24,6 @@ The `project.ipynb` file within this repository is organized into the following 
 
 - Introduction
 - Dataset Overview
-- Research and Variable Investigation
 - Simulation Design
 - Implementation of Simulation
 - Analysis of Dataset
