@@ -6,7 +6,7 @@ This repository contains code and a Jupyter notebook focusing on modeling a synt
 
 This project aims to simulate a dataset that mirrors real-world phenomena related to high-intensity workout programs. It explores four key variables:
 
-1. Blood lactic acid concentration
+1. Blood lactate concentration
 2. Heart rate during the workout
 3. Subjective difficulty level experienced during the workout
 4. Caloric expenditure
