@@ -29,15 +29,6 @@ The `project.ipynb` file within this repository is organized into the following 
 - Analysis and Insights
 - Conclusion
 
-## Usage
-
-To replicate or understand the process:
-
-1. Clone this repository.
-2. Ensure you have Python and necessary libraries installed.
-3. Open `project.ipynb` using Jupyter Notebook or Jupyter Lab.
-4. Follow the step-by-step instructions and explanations provided within the notebook to understand the dataset simulation process.
-
 ## Tools and Libraries
 
 This project was developed using:
@@ -51,15 +42,35 @@ This project was developed using:
   - NumPy
   - Other libraries (if applicable)
 
-## Examples
-
 ## Running the Jupyter Notebook
 
-to be filled out
+To run the Jupyter Notebook included in this repository, follow these steps:
+
+### Clone the Repository
+
+```bash
+git clone <repository_url.git>
+cd <repository_folder>
+```
+
+### Install Required Dependencies
+
+Ensure you have Python installed, preferably Python 3.11, along with the necessary libraries. You can install the required libraries using pip:
+
+```bash
+pip install pandas matplotlib numpy seaborn
+```
+
+### Open the Notebook
+
+Open the Jupyter Notebook using Jupyter Notebook, Jupyter Lab, or Visual Studio Code:
+
+Execute Cells:
+Inside the notebook, execute each cell sequentially by clicking on them and pressing Shift + Enter to run the code cells.
 
 ## Data Generation Methodology
 
-The synthetic dataset was generated following specific distributions for each variable
+The synthetic dataset was generated following specific distributions for each variable.
 
 ## Acknowledgments
 
