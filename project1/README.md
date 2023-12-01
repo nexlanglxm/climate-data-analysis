@@ -72,6 +72,11 @@ Inside the notebook, execute each cell sequentially by clicking on them and pres
 
 The synthetic dataset was generated following specific distributions for each variable.
 
+- Blood Lactate Concentration (BLC):
+  - Description: A continuous variable measuring lactate in the blood during high-intensity workouts.
+  - Ranges: Resting blood lactate: Typically up to 2.0 mmol/L; during intense exercise, levels may elevate to 15-25 mmol/L.
+  - Simulation: Synthetic data for resting and exercise lactate levels were generated using numpy's random number generation with constrained values to align with realistic physiological levels.
+
 ## Acknowledgments
 
-References and sources used in this project are listed within the `project.ipynb` file.
+References and sources used in this project are listed at the end of the `project.ipynb` file.
