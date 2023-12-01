@@ -49,8 +49,8 @@ To run the Jupyter Notebook included in this repository, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone <repository_url.git>
-cd <repository_folder>
+git clone <https://github.com/nexlanglxm/programming-for-data-analysis.git>
+cd <project1>
 ```
 
 ### Install Required Dependencies
