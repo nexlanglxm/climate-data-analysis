@@ -77,6 +77,11 @@ The synthetic dataset was generated following specific distributions for each va
   - Ranges: Resting blood lactate: Typically up to 2.0 mmol/L; during intense exercise, levels may elevate to 15-25 mmol/L.
   - Simulation: Synthetic data for resting and exercise lactate levels were generated using numpy's random number generation with constrained values to align with realistic physiological levels.
 
+- Heart Rate:
+  - Description: A continuous variable reflecting physiological response during workouts.
+  - Ranges: Target heart rate zones vary from 70-85% of maximum heart rate for different intensities.
+  - Simulation: Synthetic heart rate data was created using numpy's random normal distribution centered around an average of 142 beats per minute.
+
 ## Acknowledgments
 
 References and sources used in this project are listed at the end of the `project.ipynb` file.
