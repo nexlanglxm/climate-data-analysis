@@ -82,6 +82,18 @@ The synthetic dataset was generated following specific distributions for each va
   - Ranges: Target heart rate zones vary from 70-85% of maximum heart rate for different intensities.
   - Simulation: Synthetic heart rate data was created using numpy's random normal distribution centered around an average of 142 beats per minute.
 
+- Subjective Difficulty Level (SDL):
+  - Description: An ordinal variable expressing perceived difficulty levels, which was adapted to be numerical using Borg's Perceived Rate of Exertion.
+  - Ranges: Subjective difficulty levels were simulated using numpy's random normal distribution centered around a mean value of 142.
+  - CR10 Scaling: Heart rate data was mapped to CR10 scaling categories to simulate subjective difficulty levels based on exercise intensity.
+
+- Caloric Expenditure:
+  - Description: A continuous variable measuring energy expended during workouts.
+  - Ranges: Caloric expenditure was estimated using MET values for circuit training and an average individual weight of 70 kilograms.
+  - Simulation: Synthetic data for caloric expenditure was generated using numpy's random normal distribution with a mean value estimated from the MET values.
+  
+These methodologies were used to generate synthetic data for the variables, ensuring realistic ranges and distributions aligned with known physiological responses during high-intensity workouts.
+
 ## Acknowledgments
 
 References and sources used in this project are listed at the end of the `project.ipynb` file.
