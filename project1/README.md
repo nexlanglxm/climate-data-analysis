@@ -49,6 +49,9 @@ To run the Jupyter Notebook included in this repository, follow these steps:
 
 ```bash
 git clone https://github.com/nexlanglxm/programming-for-data-analysis.git
+```
+
+```bash
 cd project1
 ```
 
