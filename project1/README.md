@@ -1,6 +1,6 @@
 # Functional Fitness Data Modeling using Python
 
-This repository contains code and a Jupyter notebook focusing on modeling a synthetic dataset representing high-intensity fitness program performance using Python.
+This repository contains a Jupyter notebook focusing on modeling a synthetic dataset representing high-intensity fitness program performance using Python.
 
 ## Project Overview
 
@@ -11,16 +11,15 @@ This project aims to simulate a dataset that mirrors real-world phenomena relate
 3. Subjective difficulty level experienced during the workout
 4. Caloric expenditure
 
-The Jupyter notebook (`project.ipynb`) included in this repository details the process of researching, simulating, analysing, and interpreting this synthetic dataset.
-
 ## File Structure
 
-- `project.ipynb`: Jupyter notebook containing the detailed process of dataset simulation, variable investigation, analysis, and interpretation.
+- `project.ipynb`: Jupyter notebook containing the detailed process of dataset simulation, variable investigation, analysis, interpretation, and references.
 - `readme.md`: This file, providing an overview of the project, its objectives, and the tools used.
+- `.gitignore`: Used to keep the repository tidy, and avoid accidental file upload.
 
 ## Project Structure
 
-The `project.ipynb` file within this repository is organized into the following sections:
+The `project.ipynb` file within this repository is organized into the following sections, which are stylised using markdown for ease of usage:
 
 - Introduction
 - Dataset Overview
@@ -40,7 +39,7 @@ This project was developed using:
   - Pandas
   - Matplotlib
   - NumPy
-  - Other libraries (if applicable)
+  - Seaborn
 
 ## Running the Jupyter Notebook
 
@@ -49,8 +48,8 @@ To run the Jupyter Notebook included in this repository, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/nexlanglxm/programming-for-data-analysis.git>
-cd <project1>
+git clone https://github.com/nexlanglxm/programming-for-data-analysis.git
+cd project1
 ```
 
 ### Install Required Dependencies
@@ -63,10 +62,11 @@ pip install pandas matplotlib numpy seaborn
 
 ### Open the Notebook
 
-Open the Jupyter Notebook using Jupyter Notebook, Jupyter Lab, or Visual Studio Code:
+Open the Jupyter Notebook using Jupyter Notebook, Jupyter Lab, or Visual Studio Code.
 
-Execute Cells:
-Inside the notebook, execute each cell sequentially by clicking on them and pressing Shift + Enter to run the code cells.
+### Execute Cells
+
+Inside the notebook, execute each cell sequentially by clicking on them and pressing `Shift + Enter` to run the code cells.
 
 ## Data Generation Methodology
 
@@ -89,11 +89,11 @@ The synthetic dataset was generated following specific distributions for each va
 
 - Caloric Expenditure:
   - Description: A continuous variable measuring energy expended during workouts.
-  - Ranges: Caloric expenditure was estimated using MET values for circuit training and an average individual weight of 70 kilograms.
+  - Ranges: Caloric expenditure was estimated using Metabolic Equivalent of Task (MET) values for circuit training and an average individual weight of 70 kilograms.
   - Simulation: Synthetic data for caloric expenditure was generated using numpy's random normal distribution with a mean value estimated from the MET values.
   
 These methodologies were used to generate synthetic data for the variables, ensuring realistic ranges and distributions aligned with known physiological responses during high-intensity workouts.
 
 ## Acknowledgments
 
-References and sources used in this project are listed at the end of the `project.ipynb` file.
+References and sources used in this project are cited during and listed in their entireity at the end of the `project.ipynb` file.
