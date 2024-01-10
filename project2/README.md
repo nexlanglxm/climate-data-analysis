@@ -1,14 +1,14 @@
 # Project 2
 
-This repository contains a Jupyter notebook focusing on 
+This repository contains a Jupyter notebook focusing on an analysis of paleo-present co2 and temperature data, and rain data for Ireland since 1700.
 
 ## Project Overview
 
-This project aims to 
+This project aims to delve into a comprehensive examination of climate data across an extensive timeline, ranging from 800,000 years ago to the present day. The analysis primarily focuses on establishing correlations between CO2 levels and temperature anomalies while also exploring changes in polar ice coverage as a key variable. This research also seeks to investigate climate change signals within the context of Ireland's meteorological observations and harnesses data fusion techniques to amalgamate multiple datasets into a structured pandas dataframe.
 
 ## File Structure
 
-- `project.ipynb`: Jupyter notebook containing 
+- `project.ipynb`: Jupyter notebook containing Python code and markdown cells.
 - `readme.md`: This file, providing an overview of the project, its objectives, and the tools used.
 - `.gitignore`: Used to keep the repository tidy, and avoid accidental file upload.
 
