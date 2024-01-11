@@ -1,6 +1,6 @@
 # Project 2
 
-This repository contains a Jupyter notebook focusing on an analysis of paleo-present co2 and temperature data, and rain data for Ireland since 1700.
+This repository contains a Jupyter notebook focusing on an analysis of paleo-present CO2, temperature, and ice data, and rain data for Ireland since 1700.
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ This project was developed using:
 - Visual Studio Code
 - Jupyter Notebooks (via Anaconda)
 - Python 3.11.5
-- Libraries used:
+- Libraries used: pandas, matplotlib, seaborn, scipy, sklearn
 
 ## Running the Jupyter Notebook
 
