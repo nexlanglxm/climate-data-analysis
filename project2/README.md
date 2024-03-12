@@ -1,4 +1,4 @@
-# Project 2
+# Climate Data Analysis
 
 This repository contains a Jupyter notebook focusing on an analysis of paleo-present CO2, temperature, and ice data, and rain data for Ireland since 1700.
 
@@ -17,8 +17,13 @@ This project aims to delve into a comprehensive examination of climate data acro
 The `project.ipynb` file within this repository is organized into the following sections, which are stylised using markdown for ease of usage:
 
 - Introduction
-
-- Conclusion
+- Extraction
+- Transformations
+- Cleaning, Regression, and Interpolation
+- Data Comparison
+- Synthesis
+- Conclusions
+- References
 
 ## Tools and Libraries
 
