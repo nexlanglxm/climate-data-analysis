@@ -21,12 +21,15 @@ This project aims to simulate a dataset that mirrors real-world phenomena relate
 
 The `project.ipynb` file within this repository is organized into the following sections, which are stylised using markdown for ease of usage:
 
+- Imports
+- Project Brief
 - Introduction
 - Dataset Overview
-- Simulation Design
+- Simulation Steps & Design
 - Implementation of Simulation
 - Analysis and Insights
-- Conclusion
+- Conclusions
+- References
 
 ## Tools and Libraries
 
@@ -97,6 +100,6 @@ The synthetic dataset was generated following specific distributions for each va
   
 These methodologies were used to generate synthetic data for the variables, ensuring realistic ranges and distributions aligned with known physiological responses during high-intensity workouts.
 
-## Acknowledgments
+## Acknowledgements
 
 References and sources used in this project are cited during and listed in their entireity at the end of the `project.ipynb` file.
