@@ -8,7 +8,7 @@ This project aims to delve into a comprehensive examination of climate data acro
 
 ## File Structure
 
-- `project.ipynb`: Jupyter notebook containing Python code and markdown cells.
+- `project`: Folder containing Jupyter notebook and many subfolders with relevant data.
 - `readme.md`: This file, providing an overview of the project, its objectives, and the tools used.
 - `.gitignore`: Used to keep the repository tidy, and avoid accidental file upload.
 
@@ -41,7 +41,7 @@ To run the Jupyter Notebook included in this repository, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nexlanglxm/programming-for-data-analysis.git
+git clone https://github.com/nexlanglxm/climate-data-analysis.git
 ```
 
 ```bash
